@@ -6,5 +6,5 @@ Local `.json` files are stored in `your-theme-name/resources/assets/acf-json`
 
 To install, run the following in your Sage 9- and Sage 10-based theme directory:
 ```bash
-composer require "mwdelaney/sage-advanced-custom-fields"
+composer require "rebelinteractivegroup/sage-advanced-custom-fields"
 ```
